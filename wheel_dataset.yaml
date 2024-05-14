@@ -2,8 +2,8 @@
 # val: ./data_split/validate/
 
 
-train: /work1/gitlab-runner-docker-data/datasets/isere/annotated/object_detection/dataset_axle_update_24_04/train
-val: /work1/gitlab-runner-docker-data/datasets/isere/annotated/object_detection/dataset_axle_update_24_04/val
+train: /work1/gitlab-runner-docker-data/datasets/isere/annotated/object_detection/dataset_axle_update_14_05/train
+val: /work1/gitlab-runner-docker-data/datasets/isere/annotated/object_detection/dataset_axle_update_14_05/val
 
 # Classes
 nc: 1  # number of classes
